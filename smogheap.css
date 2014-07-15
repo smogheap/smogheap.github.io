@@ -1,0 +1,29 @@
+body {
+  font-family: monospace;
+  font-size: 120%;
+  background: silver;
+}
+
+a {
+  color: blue;
+}
+a:hover {
+  color: teal;
+}
+a:active {
+  color: cyan;
+}
+
+p {
+  font-size: inherit;
+  clear: both;
+}
+
+.center {
+  text-align: center;
+  font-size: inherit;
+}
+.center table {
+  display: inline-block;
+  font-size: inherit;
+}
