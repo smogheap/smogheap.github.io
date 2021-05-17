@@ -1,4 +1,4 @@
 smogheap.github.io
 ==================
 
-smogheap homepage: http://smogheap.github.io/
+smogheap homepage: https://smogheap.gitlab.io/
